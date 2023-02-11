@@ -1,1 +1,1 @@
-# CustomisedPersonalStudentApplication
+#Slot machine - Python project 
